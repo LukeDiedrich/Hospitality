@@ -1,7 +1,7 @@
 package com.lukediedrich.hospitality;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.lukediedrich.hospitality.model.RestResponse;
+
 import com.lukediedrich.hospitality.model.StatesData;
 
 import java.io.IOException;

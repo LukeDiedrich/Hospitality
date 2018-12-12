@@ -1,7 +1,6 @@
 package com.lukediedrich.hospitality.service;
 
 import com.lukediedrich.hospitality.Repository.StateRepositoy;
-import com.lukediedrich.hospitality.Repository.StateRepositoyImpl;
 import com.lukediedrich.hospitality.model.State;
 
 import java.util.List;
